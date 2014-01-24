@@ -1,4 +1,4 @@
-#Tasty Toast
+#Very Tasty Toast
 
 Great for breakfast or with hot chocolate.
 
