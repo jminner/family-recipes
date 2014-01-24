@@ -7,3 +7,5 @@ Great for breakfast or with hot chocolate.
 Bread - sliced
 
 #Directions
+
+Put sliced bread into the toaster.
