@@ -1,5 +1,7 @@
 #Tasty Toast
 
-Toast
+Great for breakfast or with hot chocolate.
 
-Toast
+#Ingredients
+
+#Directions
